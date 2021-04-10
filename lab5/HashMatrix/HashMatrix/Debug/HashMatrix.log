@@ -1,0 +1,5 @@
+﻿  App.cpp
+  Matrix.cpp
+  Generating Code...
+C:\Users\Ozoniuss\Desktop\info\semestrul 2\DSA\lab5\HashMatrix\HashMatrix\Matrix.cpp(108): warning C4715: 'Matrix::modify': not all control paths return a value
+  HashMatrix.vcxproj -> C:\Users\Ozoniuss\Desktop\info\semestrul 2\DSA\lab5\HashMatrix\Debug\HashMatrix.exe
